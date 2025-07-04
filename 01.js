@@ -26,13 +26,3 @@ console.log(kisi["yas"]);   // 25 (köşeli parantez içinde tırnak kullanırı
 kisi.yas = 26; // Yaşını 26 olarak değiştirdik
 kisi.sehir = "Ankara"; // Yeni bir özellik ekledik
 console.log(kisi);
-/*
-Çıktı:
-{
-  ad: "Ali",
-  yas: 26,
-  meslek: "Mühendis",
-  evliMi: false,
-  sehir: "Ankara"
-}
-*/
